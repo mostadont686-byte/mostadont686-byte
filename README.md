@@ -34,3 +34,7 @@ A simple calculator built with HTML, CSS and JavaScript.
 
 - GitHub: https://github.com/mostadont686-byte
 - LinkedIn: Add your LinkedIn profile link here
+  ### ARKHAT — Real Estate Website
+- Created a real estate website using Lovable with AI-assisted development.
+- Focused on modern design and user experience.
+- [View Live Website](https://prime-dwelling-gallery.lovable.app/)
